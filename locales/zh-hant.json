@@ -18,6 +18,7 @@
   "No results for your search, try something different.": "搜索不到內容，請嘗試其他關鍵詞。",
   "No tags found :(": "找不到標籤 :(",
   "Page": "",
+  "Page {page} / {pages}": " 第 {page} 頁，共 {pages} 頁 ",
   "Page not found": "未找到頁面",
   "Posted by": "作者: ",
   "Published with": "感謝",
